@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ERP"]
 	path = ERP
 	url = https://github.com/cran/ERP
-	shallow = true
-	registered = true
 [submodule "FADA"]
 	path = FADA
 	url = https://github.com/cran/FADA
-	shallow = true
-	registered = true
 [submodule "FAMT"]
 	path = FAMT
 	url = https://github.com/cran/FAMT
-	shallow = true
-	registered = true
