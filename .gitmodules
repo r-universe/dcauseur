@@ -8,6 +8,3 @@
 [submodule "FADA"]
 	path = FADA
 	url = https://github.com/cran/FADA
-[submodule "FAMT"]
-	path = FAMT
-	url = https://github.com/cran/FAMT
